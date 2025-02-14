@@ -18,7 +18,7 @@ Users can view temperature, humidity, wind speed, and other weather details for 
 
 ### Links
 [DEMO](https://ivazaiets.github.io/weather-app/)  
-[SOLUTION]([https://github.com/ivaZaiets/weather-app](https://github.com/BenjamimNdayisaba/weather-app?tab=readme-ov-file))
+[SOLUTION](https://github.com/BenjamimNdayisaba/weather-app)
 
 ### Setup
 * $ nvm use 20
