@@ -22,11 +22,11 @@ Users can view temperature, humidity, wind speed, and other weather details for 
 
 ### Setup
 * $ nvm use 20
-* git clone https://github.com/ivaZaiets/weather-app.git
+* git clone https://github.com/BenjamimNdayisaba/weather-app.git
 * $ npm install
 * $ npm run dev
 
 ### Author
-[GitHub](https://github.com/ivaZaiets)   
-[Telegram](https://t.me/swugre)  
-[LinkedIn](https://www.linkedin.com/in/ivanna-zaiets-6122532a0/)
+[GitHub](https://github.com/BenjamimNdayisaba)   
+[X]([https://t.me/swugre](https://x.com/bnjkx_?s=11))  
+[LinkedIn](https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/)
