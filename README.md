@@ -29,4 +29,5 @@ Users can view temperature, humidity, wind speed, and other weather details for 
 ### Author
 [GitHub](https://github.com/BenjamimNdayisaba)   
 [X](https://x.com/bnjkx_?s=11) 
+
 [LinkedIn](https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/)
