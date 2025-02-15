@@ -6,7 +6,7 @@ Users can view temperature, humidity, wind speed, and other weather details for 
 ### Features
 * **Add and Remove Cities**: Easily add or remove cities to keep track of the weather in multiple locations.
 * **Real-time Data Updates**: Stay up-to-date with live weather data that updates in real-time.
-* **Detailed Weather Information**: Get comprehensive weather details, including temperature, humidity, wind speed, and more.
+* **Detailed Weather Information**: Get comprehensive weather details, including temperature, humidity, wind speed, etc.
 * **Responsive and Beautiful Design**: Enjoy a smooth, adaptive interface that looks great on all devices.
 
 ### Tech Stack
